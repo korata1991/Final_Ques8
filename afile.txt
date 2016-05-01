@@ -2,5 +2,8 @@ Not Cherry1
 <<<<<<< HEAD
 Cherry
 Not Cherry2
+<<<<<<< HEAD
 =======
 >>>>>>> a5459d5... NotCherry1
+=======
+>>>>>>> 47e7ab6... NotCherry2
