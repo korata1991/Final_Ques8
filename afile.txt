@@ -1,3 +1,6 @@
 Not Cherry1
+<<<<<<< HEAD
 Cherry
 Not Cherry2
+=======
+>>>>>>> a5459d5... NotCherry1
